@@ -1,0 +1,9 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.App__main {
+  display: flex;
+  max-height: calc(100% - 50px);
+}

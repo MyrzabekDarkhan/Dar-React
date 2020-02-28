@@ -1,0 +1,6 @@
+.Header {
+    min-height: 50px;
+    background-color: coral;
+    display: flex;
+    justify-content: flex-end;
+}
